@@ -1,2 +1,2 @@
-# hame8750.gitub.io
+# hame8750.github.io
 UNCO BACS Class
